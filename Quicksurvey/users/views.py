@@ -3,7 +3,8 @@ from rest_framework import generics
 from .models import Forms, Questions, QuestionsInForms, Responses
 from .serializers import FormSerializers, QuestionsInFormsSerializers, ResponsesSerializers, QuestionsSerializers
 
-
+def login(request):
+    return render(request, 'users/login.html')
 
 class FormsCreateView(generics.ListCreateAPIView):
     queryset = Forms.objects.all()

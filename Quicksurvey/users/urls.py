@@ -16,5 +16,5 @@ urlpatterns = [
     path('quinf/<int:pk>/', QuestionsInFormsView.as_view(), name='quesinfm-detail'),
     path('resp/<int:pk>/', ResponsesView.as_view(), name='resp-detail'),
 
-
+    path('login/',login, name='login'),
 ]
