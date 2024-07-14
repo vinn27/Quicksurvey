@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e74bcd2-6fa9-46db-8a22-94c7f87b1f0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DRF_Project1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/Quicksurvey/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/Quicksurvey/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/Quicksurvey/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/Quicksurvey/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/Quicksurvey/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/req.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/users/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/users/migrations/0002_remove_forms_is_staff_remove_forms_is_superuser_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/users/migrations/0003_remove_responses_response_by_responses_response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/users/migrations/0004_alter_questionsinforms_form_fk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/users/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksurvey/users/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Quicksurvey" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2j75SGDlttWB0cuKD7XrwUyPE4z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.views.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vinit/DRF_Projects/DRF_Project1/Quicksurvey/users&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vinit\DRF_Projects\DRF_Project1\Quicksurvey\users" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e74bcd2-6fa9-46db-8a22-94c7f87b1f0b" name="Changes" comment="" />
+      <created>1720725273656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720725273656</updated>
+    </task>
+    <servers />
+  </component>
+</project>
